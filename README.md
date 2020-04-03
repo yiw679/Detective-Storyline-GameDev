@@ -4,7 +4,10 @@
 ## Tool: Unity Game Engine
 
 ### General Vision:
-Player (as the detective) try to solve crime scenes by hearing stories, collecting evidences and making judgements. This game is meant to submerge players in crime scenes and encourage them to think carefully and connect evidences to find the criminal.
+* Player (as the detective) try to solve crime scenes by hearing stories, collecting evidences and making judgements. This game is meant to submerge the player in crime scenes and encourage them to think carefully and connect evidences to find the criminal.
+
+### Current Progresses
+* Finished the first level
 
 ### Systems Implemented:
 * Global Mouseclick Handling System
@@ -24,7 +27,7 @@ Player (as the detective) try to solve crime scenes by hearing stories, collecti
 ![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture1.png "Capture 4")
 
 ### Features Left to Implement:
-More vivid animations, cinematic cutscenes, audios and sound effects
+* More vivid animations, cinematic cutscenes, audios and sound effects
 
 ### Outside Resources Used:
 * From Unity Asset Store: 
