@@ -11,12 +11,12 @@
 
 ### Systems Implemented:
 * Global Mouseclick Handling System
-	* Character Controls
-	* UI Interactions
-	* Evidence Inspection and Collection
+ * Character Controls
+ * UI Interactions
+ * Evidence Inspection and Collection
 * NPC AI System
-	* Interactive Conversations
-	* Clues and Items Distributions
+ * Interactive Conversations
+ * Clues and Items Distributions
 * Inventory System
 
 ### In Game Captures
@@ -31,7 +31,7 @@
 
 ### Outside Resources Used:
 * From Unity Asset Store: 
-	* Polygon SciFi City Pack 	by Synty Studio
-	* Everyday motion pack 	by Gizmozman
-	* Villager animations pack	by Kevin Iglesias	
-	* Quick Outline 		by Chris Nolet
+ * Polygon SciFi City Pack 	by Synty Studio
+ * Everyday motion pack 	by Gizmozman
+ * Villager animations pack	by Kevin Iglesias	
+ * Quick Outline 		by Chris Nolet
