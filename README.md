@@ -3,6 +3,8 @@
 ## Duration: 2 months
 ## Tool: Unity Game Engine
 
+### Brief Note: While I currently don't have enough time to create a full personal portfolio website, I do have other games and software that I developed for showcasing my skill, please don't hesitate to contact me via my email if you are interested. Thank you and I appreciate it!
+
 ### General Vision:
 * Player (as the detective) try to solve crime scenes by hearing stories, collecting evidences and making judgements. This game is meant to submerge the player in crime scenes and encourage them to think carefully and connect evidences to find the criminal.
 
