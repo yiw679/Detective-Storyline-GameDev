@@ -24,9 +24,9 @@
 ### In Game Captures
 
 ![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture1.png "Capture 1")
-![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture1.png "Capture 2")
-![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture1.png "Capture 3")
-![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture1.png "Capture 4")
+![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture2.png "Capture 2")
+![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture3.png "Capture 3")
+![alt text](https://github.com/yiw679/Detective-Storyline-GameDev/blob/master/InGameCaptures/capture4.png "Capture 4")
 
 ### Features Left to Implement:
 * More vivid animations, cinematic cutscenes, audios and sound effects
