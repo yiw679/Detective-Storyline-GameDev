@@ -1,5 +1,6 @@
 # Detective-Storyline-GameDev Report
 ## Developer: Yiming Wang (Contact me via zdwym1997@yahoo.com)
+## [Link To My Resume](Resume-YimingWang.pdf)
 ## Duration: 2 months
 ## Tool: Unity Game Engine
 
